@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\bin\Debug\net6.0\NEWNEW.exe
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\bin\Debug\net6.0\NEWNEW.deps.json
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\bin\Debug\net6.0\NEWNEW.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\bin\Debug\net6.0\NEWNEW.dll
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\bin\Debug\net6.0\NEWNEW.pdb
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\obj\Debug\net6.0\NEWNEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\obj\Debug\net6.0\NEWNEW.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\obj\Debug\net6.0\NEWNEW.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\obj\Debug\net6.0\NEWNEW.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\obj\Debug\net6.0\NEWNEW.dll
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\obj\Debug\net6.0\refint\NEWNEW.dll
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\obj\Debug\net6.0\NEWNEW.pdb
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\obj\Debug\net6.0\NEWNEW.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\NEWNEW\NEWNEW\obj\Debug\net6.0\ref\NEWNEW.dll
